@@ -170,4 +170,38 @@ For example, the square matrix arr is shown below:
 The left-to-right diagonal = `1 + 5 + 9 = 15`. The right to left diagonal = `3 + 5 + 9 = 17`. Their absolute difference is `|15 - 17| = 2`.
 
 ---
+**Question 4:**
+
+This is a staircase of size n = 4.
+```
+   #
+  ##
+ ###
+####
+```
+
+Its base and height are both equal to n. It is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+
+Write a program that prints a staircase of size n.
+
+Output Format:
+
+Print a staircase of size n using # symbols and spaces.
+
+Note: The last line must have 0 spaces in it.
+
+### Expected Output
+
+Sample Input: 6
+
+Sample Output:
+```
+     #
+    ##
+   ###
+  ####
+ #####
+######
+```
+---
 
